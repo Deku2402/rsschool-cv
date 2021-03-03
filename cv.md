@@ -4,3 +4,16 @@
 
 ### About me:
 I'm 20 years and i`m from Kazakhstan, the city of Karaganda. I want to become a programmer
+
+### Skills:
+* HTML/CSS
+* C++
+* Java
+* Python
+* Photoshop
+
+### Education:
+Self-study and Youtube
+
+### Language:
+* English: A2
