@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background-color: #000;
+    background: url(img/stars.png);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+.cvpage{
+    width: 900px;
+    height: auto;
+    background-color: #fff;
+    margin: 20px auto;
+    box-shadow: 0px 0px 47px 22px rgba(0, 131, 255, 0.42);
+}
+
+.conteiner{
+    padding: 10px 50px;
+}
+
+.img{
+    display: block;
+    max-width: 30%;
+    height: auto;
+    border-radius: 50%;
+    margin: 20px auto;
+    margin-bottom: 40px;
+
+}
+
+.cvname{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.email{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+p{
+    margin-bottom: 40px;
+}
+
+li{
+    margin: 10px;
+}
+
+ul{
+    margin-bottom: 40px;
+}
